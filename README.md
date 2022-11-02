@@ -1,5 +1,5 @@
 # MineriaClustering
-Trabajo de 4 puntos sobre la nota de la asignatura de Minería de Datos de 4º de Ingeniería Informática
+Trabajo de 4 puntos sobre la nota de la asignatura de Minería de Datos de 4º de Ingeniería Informática.
 Se dispone de un dataset en inglés que contiene 3304 juicios realizados por la Corte Suprema de los Estados Unidos desde 1955 hasta 2021.
 Cada juicio es una instancia del dataset y tiene 16 atributos[1], entre los cuales se consideran las siguientes:
 - Los hechos del juicio, de media 200 palabras.
